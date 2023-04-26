@@ -12,5 +12,5 @@
 📖 Estudando programação.
 
 ☤ Cursando Ciencias Contábeis. 
-...
+
 ![Bianca GitHub stats](https://github-readme-stats.vercel.app/api?username=BRS23&show_icons=true&theme=tokyonight)
